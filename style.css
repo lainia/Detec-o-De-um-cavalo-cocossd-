@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    font-family: fantasy;
+    width: 100%;
+    margin: 0px;
+    text-shadow: 5px;
+}
+#start , #status , #number_of_objescts
+{
+    font-size: 20px;  
+}
+.rodape
+{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(187, 9, 9);
+    line-height: 2;
+    text-align: center;
+}
